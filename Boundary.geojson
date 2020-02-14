@@ -5,7 +5,9 @@
       "type": "Feature",
       "properties": {
         "Name": "Boundary",
-        "color": "green"
+        "color": "green",
+		"height": 0.1,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
