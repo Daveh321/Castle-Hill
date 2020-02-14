@@ -12,7 +12,9 @@
       "type": "Feature",
       "properties": {
         "Name": null,
-		"color": "orange"
+		"color": "orange",
+		"height": 0.1,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -116,7 +118,9 @@
       "type": "Feature",
       "properties": {
         "Name": null,
-		"color": "orange"
+		"color": "orange",
+		"height": 0.1,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -195,7 +199,9 @@
       "type": "Feature",
       "properties": {
         "Name": null,
-		"color": "orange"
+		"color": "orange",
+		"height": 0.1,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -384,7 +390,9 @@
       "type": "Feature",
       "properties": {
         "Name": null,
-		"color": "orange"
+		"color": "orange",
+		"height": 0.1,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -568,7 +576,9 @@
       "type": "Feature",
       "properties": {
         "Name": null,
-		"color": "orange"
+		"color": "orange",
+		"height": 0.1,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -662,7 +672,9 @@
       "type": "Feature",
       "properties": {
         "Name": null,
-		"color": "orange"
+		"color": "orange",
+		"height": 0.1,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -781,7 +793,9 @@
       "type": "Feature",
       "properties": {
         "Name": null,
-		"color": "orange"
+		"color": "orange",
+		"height": 0.1,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -1000,7 +1014,9 @@
       "type": "Feature",
       "properties": {
         "Name": null,
-		"color": "orange"
+		"color": "orange",
+		"height": 0.1,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -1359,7 +1375,9 @@
       "type": "Feature",
       "properties": {
         "Name": null,
-		"color": "orange"
+		"color": "orange",
+		"height": 0.1,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -1443,7 +1461,9 @@
       "type": "Feature",
       "properties": {
         "Name": null,
-		"color": "orange"
+		"color": "orange",
+		"height": 0.1,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -1532,7 +1552,9 @@
       "type": "Feature",
       "properties": {
         "Name": null,
-		"color": "orange"
+		"color": "orange",
+		"height": 0.1,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -1786,7 +1808,9 @@
       "type": "Feature",
       "properties": {
         "Name": null,
-		"color": "orange"
+		"color": "orange",
+		"height": 0.1,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -1915,7 +1939,9 @@
       "type": "Feature",
       "properties": {
         "Name": null,
-		"color": "orange"
+		"color": "orange",
+		"height": 0.1,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -2034,7 +2060,9 @@
       "type": "Feature",
       "properties": {
         "Name": null,
-		"color": "orange"
+		"color": "orange",
+		"height": 0.1,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -2103,7 +2131,9 @@
       "type": "Feature",
       "properties": {
         "Name": null,
-		"color": "orange"
+		"color": "orange",
+		"height": 0.1,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -2322,7 +2352,9 @@
       "type": "Feature",
       "properties": {
         "Name": null,
-		"color": "orange"
+		"color": "orange",
+		"height": 0.1,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -2456,7 +2488,9 @@
       "type": "Feature",
       "properties": {
         "Name": null,
-		"color": "orange"
+		"color": "orange",
+		"height": 0.1,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -2650,7 +2684,9 @@
       "type": "Feature",
       "properties": {
         "Name": null,
-		"color": "orange"
+		"color": "orange",
+		"height": 0.1,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -2709,7 +2745,9 @@
       "type": "Feature",
       "properties": {
         "Name": null,
-		"color": "orange"
+		"color": "orange",
+		"height": 0.1,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -2783,7 +2821,9 @@
       "type": "Feature",
       "properties": {
         "Name": null,
-		"color": "orange"
+		"color": "orange",
+		"height": 0.1,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -2882,7 +2922,9 @@
       "type": "Feature",
       "properties": {
         "Name": null,
-		"color": "orange"
+		"color": "orange",
+		"height": 0.1,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -3036,7 +3078,9 @@
       "type": "Feature",
       "properties": {
         "Name": null,
-		"color": "orange"
+		"color": "orange",
+		"height": 0.1,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -3120,7 +3164,9 @@
       "type": "Feature",
       "properties": {
         "Name": null,
-		"color": "orange"
+		"color": "orange",
+		"height": 0.1,
+        "base_height": 0
       },
       "geometry": {
         "type": "Polygon",
